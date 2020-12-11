@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@preksha_shetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@preksha_shetti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/preksha shetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preksha shetti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prekshashetti8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preksha shetti" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14605702" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14605702" height="30" width="40" /></a>
-<a href="https://fb.com/preksha n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preksha n" height="30" width="40" /></a>
+<a href="https://www.facebook.com/preksha.shetti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preksha n" height="30" width="40" /></a>
 <a href="https://medium.com/@prekshashetti517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prekshashetti517" height="30" width="40" /></a>
 </p>
 
