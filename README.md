@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preksha Shetti</h1>
-<h3 align="center">Computer Science Sophomore. Interested in Programming, competitive coding,and technical writing</h3>
+<h3 align="center">Computer Science Sophomore. Interested in Programming, competitive coding💻, technical writing✍, Nature admirer🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preksha-n&label=Profile%20views&color=0e75b6&style=flat" alt="preksha-n" /> </p>
 
