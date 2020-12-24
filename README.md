@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I think I'm funny:)**
 
+- ✨Quote that I admire **"Every cloud has a silver screen"**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/prekshashetti8/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preksha shetti" height="50" width="60" /></a>
