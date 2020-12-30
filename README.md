@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preksha-n&label=Profile%20views&color=0e75b6&style=flat" alt="preksha-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preksha-n" alt="preksha-n" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -22,6 +21,7 @@
 <a href="https://twitter.com/@preksha_shetti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@preksha_shetti" height="50" width="60" /></a>
 <a href="https://stackoverflow.com/users/14605702" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14605702" height="50" width="60" /></a>
 <a href="https://www.facebook.com/preksha.shetti/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="preksha n" height="50" width="60" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preksha-n" alt="preksha-n" /></a> </p>
 
 </p>
 
