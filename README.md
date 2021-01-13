@@ -28,8 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><!--C--> <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="50" height="50"/> </a>
- <!--Java--><a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a> 
-  <!--HTML--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
+ <!--Java--><a href="https://www.java.com" target="_blank"> <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" alt="java" width="50" height="50"/> </a> 
+  <!--HTML--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="50" height="50"/> </a> 
 <!--CSS--> <a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="c" width="50" height="50"/> </a>
  <!--Bootstrap--> <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50"/> </a>
   <!--Javascript--><a href="https://www.javatpoint.com/javascript-tutorial" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="javascript" width="50" height="50"/> </a> 
