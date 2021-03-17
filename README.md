@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://www.linkedin.com/in/prekshashetti8/" target="_blank"><img align="center" src="![image](https://user-images.githubusercontent.com/71238045/111417695-66dc4100-870c-11eb-848a-f64176afa79c.png)" alt="preksha shetti" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/prekshashetti8/" target="_blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_426847.png" alt="preksha shetti" height="50" width="60" /></a>
 <a href="https://hashnode.com/@Preksha" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="preksha shetti" height="50" width="60" /></a>
 <a href="https://medium.com/@prekshashetti517" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prekshashetti517" height="50" width="60" /></a>
 <a href="https://twitter.com/@preksha_shetti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@preksha_shetti" height="50" width="60" /></a>
