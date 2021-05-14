@@ -8,6 +8,8 @@
 
 - 📝 I regulary write articles on [https://prekshashetti517.medium.com/](https://prekshashetti517.medium.com/)
 
+- I like teaching technology. Link to my tech blogs [https://hashnode.com/@Preksha](https://hashnode.com/@Preksha)
+
 - 📫 How to reach me **prekshashetti517@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny:)**
@@ -18,7 +20,6 @@
 <p align="left">
  
 <a href="https://www.linkedin.com/in/prekshashetti8/" target="_blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_426847.png" alt="preksha shetti" height="50" width="60" /></a>
-<a href="https://hashnode.com/@Preksha" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="preksha shetti" height="50" width="60" /></a>
 <a href="https://medium.com/@prekshashetti517" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prekshashetti517" height="50" width="60" /></a>
 <a href="https://twitter.com/@preksha_shetti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@preksha_shetti" height="50" width="60" /></a>
 <a href="https://stackoverflow.com/users/14605702" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14605702" height="50" width="60" /></a>
