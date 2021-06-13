@@ -20,9 +20,7 @@
 <p align="left">
  
 <a href="https://www.linkedin.com/in/prekshashetti8/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="preksha shetti" height="50" width="85" /></a>
- 
 <a href="https://hashnode.com/@Preksha" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@prekshashetti517" height="50" width="85" /></a>
- 
 <a href="https://medium.com/@prekshashetti517" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@prekshashetti517" height="50" width="85" /></a>
 <a href="https://twitter.com/@preksha_shetti" target="_blank"><img align="center" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="@preksha_shetti" height="50" width="85" /></a>
 <a href="https://stackoverflow.com/users/14605702" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="14605702" height="50" width="85" /></a>
