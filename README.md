@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I'm funny:)**
 
-- ✨Quote that I believe **"Every cloud has a silver line"**
+- ✨Quote that I believe **"Every cloud has a silver lining"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
