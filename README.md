@@ -6,6 +6,12 @@
 
 - 🌱 I’m currently learning **Web Development**
 
+- As a <strong>Microsoft learn student ambassador</strong> I conduct online events👩🏻‍💻
+ 
+- As a <strong>Content writer ✍🏻</strong> at Upskill Community I create content for the community's  email ✉️.
+
+- Being the <strong>Core team member</strong> at Starvic I contribute in building amazing future products💫 in edtech.
+
 - 📝 I regulary write articles on [https://prekshashetti517.medium.com/](https://prekshashetti517.medium.com/)
 
 - I like teaching technology. Link to my tech blogs [https://hashnode.com/@Preksha](https://hashnode.com/@Preksha)
