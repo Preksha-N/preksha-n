@@ -52,8 +52,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preksha-n&show_icons=true&locale=en&layout=compact" alt="preksha-n" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preksha-n&show_icons=true&locale=en&layout=compact" alt="preksha-n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preksha-n&show_icons=true&locale=en" alt="preksha-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preksha-n&" alt="preksha-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preksha-n&" alt="preksha-n" /></p>
