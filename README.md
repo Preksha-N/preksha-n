@@ -18,7 +18,9 @@
 
 - 📫 How to reach me **prekshashetti517@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny:)**
+- 👩🏻‍💻You can also connect with me on LinkedIn. Here is my <a href="https://www.linkedin.com/in/prekshashetti8/">profile</a>
+
+- ⚡ Fun fact **I think I'm funny:)** 
 
 - ✨Quote that I believe **"Every cloud has a silver lining"**
 
