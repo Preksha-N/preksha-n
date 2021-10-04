@@ -54,7 +54,7 @@
 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preksha-n&show_icons=true&locale=en&layout=compact" alt="preksha-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preksha-n&show_icons=true&locale=en&layout=compact" alt="preksha-n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preksha-n&show_icons=true&locale=en" alt="preksha-n" /></p>
 
