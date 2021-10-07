@@ -47,7 +47,8 @@
   <!--HTML--><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="50"/> </a> 
 <!--CSS--> <a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="c" width="100" height="50"/> </a>
  <!--Bootstrap--> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="100" height="50"/> </a>
- 
+ <!--JavaScript--><a href="https://www.javascript.com" target="_blank"> <img src="https://codobee.com/wp-content/uploads/2020/04/javascript-logo.png" alt="Javascript" width="100" height="50"/> </a>
+
  <h3 align="left">Design and IDE's used:</h3>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt= "canva" width="100" height="50"></a>
    <a href="" target="_blank">  <a href="" target="_blank"> <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt= "vscode" width="100" height="50"> </a> 
