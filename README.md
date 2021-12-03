@@ -8,7 +8,7 @@
 
 - As a <strong>Microsoft learn student ambassador</strong> I conduct online events👩🏻‍💻
  
-- As a <strong>Content writer ✍🏻</strong> at Upskill Community I create content for the community's  email ✉️.
+- As a <strong>Technical writer ✍🏻</strong> at Scaler Academy .
 
 - Being the <strong>Core team member</strong> at Starvic I contribute in building amazing future products💫 in edtech.
 
