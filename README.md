@@ -8,7 +8,7 @@
 
 - As a <strong>Microsoft learn student ambassador</strong> I conduct online events👩🏻‍💻
  
-- As a <strong>Technical writer ✍🏻</strong> at Scaler Academy .
+- As a <strong>Technical writer ✍🏻</strong> at Scaler Academy . Check article here(https://www.scaler.com/topics/c/difference-between-arguments-and-parameters/)
 
 - Being the <strong>Core team member</strong> at Starvic I contribute in building amazing future products💫 in edtech.
 
