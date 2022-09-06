@@ -10,15 +10,13 @@
  
 - As a <strong>Technical writer ✍🏻</strong> at Scaler Academy . Check article here(https://www.scaler.com/topics/c/difference-between-arguments-and-parameters/)
 
-- Being the <strong>Core team member</strong> at Starvic I contribute in building amazing future products💫 in edtech.
+- 👩🏻‍💻Connect with me on LinkedIn. Here is my <a href="https://www.linkedin.com/in/prekshashetti8/">profile</a>
 
 - 📝 Find my articles on medium [https://prekshashetti517.medium.com/](https://prekshashetti517.medium.com/)
 
 - I like teaching technology. Link to my tech blogs [https://hashnode.com/@Preksha](https://hashnode.com/@Preksha)
 
 - 📫 How to reach me **prekshashetti517@gmail.com**
-
-- 👩🏻‍💻You can also connect with me on LinkedIn. Here is my <a href="https://www.linkedin.com/in/prekshashetti8/">profile</a>
 
 - ⚡ Fun fact **I think I'm funny 🐧** 
 
