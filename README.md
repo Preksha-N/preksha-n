@@ -8,7 +8,7 @@
 
 - As a <strong>Microsoft learn student ambassador</strong> I conduct online events👩🏻‍💻
  
-- As a <strong>Technical writer ✍🏻</strong> at Scaler Academy . Check article here(https://www.scaler.com/topics/c/difference-between-arguments-and-parameters/)
+- As a <strong>Technical writer ✍🏻</strong> at Scaler Academy . Check article <a href="https://www.scaler.com/topics/c/difference-between-arguments-and-parameters/"> Difference Between arguments and parameters</a>
 
 - 👩🏻‍💻Connect with me on LinkedIn. Here is my <a href="https://www.linkedin.com/in/prekshashetti8/">profile</a>
 
