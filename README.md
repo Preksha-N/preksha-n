@@ -12,7 +12,7 @@
 
 - 👩🏻‍💻Connect with me on LinkedIn. Here is my <a href="https://www.linkedin.com/in/prekshashetti8/">profile</a>
 
-- 📝 Find my articles on medium [https://prekshashetti517.medium.com/](https://prekshashetti517.medium.com/)
+- 📝 Find my articles on <a href="https://prekshashetti.medium.com/">Medium</a>
 
 - I like teaching technology. Link to my tech blogs [https://hashnode.com/@Preksha](https://hashnode.com/@Preksha)
 
